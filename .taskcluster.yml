@@ -7,6 +7,9 @@ metadata:
 tasks:
   - provisionerId: "{{ taskcluster.docker.provisionerId }}"
     workerType: "{{ taskcluster.docker.workerType }}"
+    routes:
+      - "notify.email.bstack@mozilla.com.on-any"
+      - "notify.irc-user.bstack.on-any"
     extra:
       github:
         env: true
