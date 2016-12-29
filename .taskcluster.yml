@@ -14,7 +14,7 @@ tasks:
       github:
         env: true
         events:
-          - push
+          - release
     payload:
       maxRunTime: 3600
       image: "node:5"
