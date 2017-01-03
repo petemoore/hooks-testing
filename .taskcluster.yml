@@ -14,7 +14,10 @@ tasks:
       github:
         env: true
         events:
-          - release
+          - pull_request.opened
+          - pull_request.synchronize
+          - pull_request.reopened
+          - push 
     payload:
       maxRunTime: 3600
       image: "node:5"
@@ -24,6 +27,25 @@ tasks:
         - "echo 'This works!'"
     metadata:
       name: "TaskCluster GitHub Tests"
-      description: "Tests for taskcluster github in production"
+      description: "Tests for taskcluster github in production/staging"
+      owner: "{{ event.head.user.email }}"
+      source: "{{ event.head.repo.url }}"
+  - provisionerId: "{{ taskcluster.docker.provisionerId }}"
+    workerType: "{{ taskcluster.docker.workerType }}"
+    extra:
+      github:
+        env: true
+        events:
+          - release
+    payload:
+      maxRunTime: 3600
+      image: "node:5"
+      command:
+        - "/bin/bash"
+        - "-lc"
+        - "echo 'This works! (From a Release!)'"
+    metadata:
+      name: "TaskCluster GitHub Tests from a Release"
+      description: "Tests for taskcluster github in production/staging (from a release)"
       owner: "{{ event.head.user.email }}"
       source: "{{ event.head.repo.url }}"
