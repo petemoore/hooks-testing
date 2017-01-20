@@ -24,7 +24,7 @@ tasks:
       command:
         - "/bin/bash"
         - "-lc"
-        - "echo 'This works!'"
+        - "env; echo 'This works!'"
     metadata:
       name: "TaskCluster GitHub Tests"
       description: "Tests for taskcluster github in production/staging"

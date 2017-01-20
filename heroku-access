@@ -1,0 +1,608 @@
+APP: === Apps in organization mozillacorporation
+APP: all-aboard-remote
+APP: arewecompatibleyet
+APP: atmo-dev
+APP: autolander
+armenzg@mozilla.com      admin         deploy,manage,operate,view
+bimsland@mozilla.com     admin         deploy,manage,operate,view
+chris.lonnen@gmail.com   admin         deploy,manage,operate,view
+emorley@mozilla.com      admin         deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin         deploy,manage,operate,view
+garndt@mozilla.com       admin         deploy,manage,operate,view
+gene@mozilla.com         admin         deploy,manage,operate,view
+jbryner@mozilla.com      admin         deploy,manage,operate,view
+jgriffin@mozilla.com     admin         deploy,manage,operate,view
+jhford@mozilla.com       member        deploy,operate,view
+jkrejci@mozilla.com      admin         deploy,manage,operate,view
+jojensen@mozilla.com     member        deploy,operate,view
+jwatkins@mozilla.com     admin         deploy,manage,operate,view
+kgrandon@mozilla.com     collaborator  deploy,operate,view
+mcote@mozilla.com        admin         deploy,manage,operate,view
+mdoglio@mozilla.com      admin         deploy,manage,operate,view
+me@potch.me              admin         deploy,manage,operate,view
+pmoore@mozilla.com       member        deploy,operate,view
+rhelmer@rhelmer.org      admin         deploy,manage,operate,view
+rsoderberg@mozilla.com   admin         deploy,manage,operate,view
+rwatson@mozilla.com      admin         deploy,manage,operate,view
+smani@mozilla.com        admin         deploy,manage,operate,view
+APP: browsercompat
+APP: bugherder
+APP: bugzfeed
+APP: cloud-mirror
+APP: contribute-json
+APP: corsica-social
+APP: crates-io
+APP: enigmatic-beyond-2991
+APP: etherworld
+APP: fennec-aurora-task-creator
+APP: fennec-aurora-task-creator-dev
+APP: firefox-onboarding
+APP: fxtestbot
+APP: gaia-taskcluster
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bsilverberg@mozilla.com  member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: games-demos
+APP: jsonschemalint
+APP: jspsych-experiments
+APP: jugband
+APP: leeroy-bot
+APP: leeroybot
+APP: lock-museum (eu)
+APP: loop-dash
+APP: makemanifest
+APP: metaplace
+APP: moz-chargers
+APP: moz-commute
+APP: moz-corsica
+APP: moz-datacenter
+APP: moz-distribution-viewer
+APP: moz-games
+APP: moz-menu-mv
+APP: moz-moderator
+APP: moz-referrals
+APP: moz-rockbot
+APP: moz-rooms-mv
+APP: moz-tanx
+APP: moz-w0ts0ntest
+APP: mozilla-cla
+APP: mozilla-licensing
+APP: mozilla-pontoon
+APP: mozilla-pontoon-staging
+APP: mozilla-switchboard
+APP: mozilla-taskcluster
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+cdawson@mozilla.com      member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: mozilla-taskcluster-staging
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: mozlando-frontend-demo
+APP: mozmar-slack-irc
+APP: mozweb-github-daily-travis
+APP: nss-taskcluster (eu)
+APP: patentquest
+APP: platatus
+APP: platform-health
+APP: plugincheck
+APP: plugincheck-dev
+APP: postatus
+APP: presto-wpt
+APP: provisioner-monitor
+APP: provisioner-staging
+APP: prowac
+APP: pulse-actions
+APP: pulse-actions-stage
+APP: pulseguardian
+APP: pulsetranslator
+APP: queue-taskcluster-net
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: release-notifications
+APP: release-notifications-dev
+APP: releng-bot
+APP: releng-production-archiver
+APP: releng-production-clobberer
+APP: releng-production-database
+APP: releng-production-mapper
+APP: releng-production-tooltool
+APP: releng-production-treestatus
+APP: releng-staging-archiver
+APP: releng-staging-clobberer
+APP: releng-staging-database
+APP: releng-staging-mapper
+APP: releng-staging-tooltool
+APP: releng-staging-treestatus
+APP: releng-tc-coalesce
+APP: releng-tc-coalesce-stage
+APP: relengbot
+APP: relengbot-stage
+APP: rogerroger
+APP: rtmo-prod
+APP: rust-slackin-official
+APP: scheduler-taskcluster-net
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: serviceworker-cookbook
+APP: seta
+APP: seta-dev
+APP: shielddash
+APP: shipit-production-dashboard
+APP: shipit-staging-dashboard
+APP: slacknow
+APP: socketpeer-media
+APP: srihash
+APP: staging-crates-io
+APP: standups
+APP: standups-irc
+APP: standupstage
+APP: standupstage-irc
+APP: symbolapi
+APP: symbolapi-old
+APP: symbols-mozilla-org
+APP: taskcluster-auth
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: taskcluster-auth-staging
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: taskcluster-aws-provisioner2
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-bot
+APP: taskcluster-cors-proxy
+APP: taskcluster-diagnostics
+APP: taskcluster-dummy
+APP: taskcluster-events
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-github
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-github-stagi-pr-81
+APP: taskcluster-github-stagi-pr-85
+APP: taskcluster-github-staging
+armenzg@mozilla.com        admin         deploy,manage,operate,view
+bimsland@mozilla.com       admin         deploy,manage,operate,view
+bstack@mozilla.com         member        deploy,operate,view
+chris.lonnen@gmail.com     admin         deploy,manage,operate,view
+dustin@mozilla.com         member        deploy,operate,view
+emorley@mozilla.com        admin         deploy,manage,operate,view
+eziegenhorn@mozilla.com    admin         deploy,manage,operate,view
+garndt@mozilla.com         admin         deploy,manage,operate,view
+gene@mozilla.com           admin         deploy,manage,operate,view
+jag.er.adamanna@gmail.com  collaborator  deploy,operate,view
+jbryner@mozilla.com        admin         deploy,manage,operate,view
+jgriffin@mozilla.com       admin         deploy,manage,operate,view
+jkrejci@mozilla.com        admin         deploy,manage,operate,view
+jwatkins@mozilla.com       admin         deploy,manage,operate,view
+mcote@mozilla.com          admin         deploy,manage,operate,view
+mdoglio@mozilla.com        admin         deploy,manage,operate,view
+me@potch.me                admin         deploy,manage,operate,view
+pmoore@mozilla.com         member        deploy,operate,view
+rhelmer@rhelmer.org        admin         deploy,manage,operate,view
+rsoderberg@mozilla.com     admin         deploy,manage,operate,view
+rwatson@mozilla.com        admin         deploy,manage,operate,view
+smani@mozilla.com          admin         deploy,manage,operate,view
+wcosta@mozilla.com         member        deploy,operate,view
+APP: taskcluster-grafana
+APP: taskcluster-hooks
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-httpbin (eu)
+APP: taskcluster-index
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: taskcluster-login
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: taskcluster-monitor
+APP: taskcluster-notify
+APP: taskcluster-pulse
+APP: taskcluster-purge-cache
+APP: taskcluster-scheduler
+amiyaguchi@mozilla.com   member  deploy,operate,view
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rgarbas@mozilla.com      member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+wcosta@mozilla.com       member  deploy,operate,view
+APP: taskcluster-secrets
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-stats-collector
+APP: taskcluster-status
+APP: taskcluster-treeherder
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+bstack@mozilla.com       member  deploy,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jhford@mozilla.com       member  deploy,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jojensen@mozilla.com     member  deploy,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: taskcluster-treeherder-staging
+APP: tc-auth-load-test
+APP: tc-gecko-metrics-go
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  deploy,operate,view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP: tc-queue-load-test
+APP: tofino-bot
+APP: tofino-slack-invite
+APP: tofino-update-server
+APP: treeherder-prod
+APP: treeherder-prototype
+APP: treeherder-stage
+APP: triage-with-me
+APP: trigger-bot
+APP: vr-slack-irc-bot
+APP: webfighter-inapp
+APP: webops-bugzilla-form
+APP: webops-bugzilla-kanbanize
+APP: webrtc-p2p-broker
+APP: whats-shipping
+APP: worker-ci
+armenzg@mozilla.com      admin   deploy,manage,operate,view
+bimsland@mozilla.com     admin   deploy,manage,operate,view
+chris.lonnen@gmail.com   admin   deploy,manage,operate,view
+dustin@mozilla.com       member  deploy,operate,view
+emorley@mozilla.com      admin   deploy,manage,operate,view
+eziegenhorn@mozilla.com  admin   deploy,manage,operate,view
+garndt@mozilla.com       admin   deploy,manage,operate,view
+gene@mozilla.com         admin   deploy,manage,operate,view
+jbryner@mozilla.com      admin   deploy,manage,operate,view
+jgriffin@mozilla.com     admin   deploy,manage,operate,view
+jkrejci@mozilla.com      admin   deploy,manage,operate,view
+jwatkins@mozilla.com     admin   deploy,manage,operate,view
+mcote@mozilla.com        admin   deploy,manage,operate,view
+mdoglio@mozilla.com      admin   deploy,manage,operate,view
+me@potch.me              admin   deploy,manage,operate,view
+pmoore@mozilla.com       member  view
+rhelmer@rhelmer.org      admin   deploy,manage,operate,view
+rsoderberg@mozilla.com   admin   deploy,manage,operate,view
+rwatson@mozilla.com      admin   deploy,manage,operate,view
+smani@mozilla.com        admin   deploy,manage,operate,view
+APP:
