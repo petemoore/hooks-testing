@@ -43,7 +43,7 @@ tasks:
       command:
         - "/bin/bash"
         - "-lc"
-        - "echo 'This works! (From a Release!)'"
+        - "env; echo 'This works! (From a Release!)'"
     metadata:
       name: "TaskCluster GitHub Tests from a Release"
       description: "Tests for taskcluster github in production/staging (from a release)"
